@@ -1,8 +1,5 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
-## Name : MOHANKUMAR S
-## Reg No: 2305002014
-
 ---
 
 ## Aim
